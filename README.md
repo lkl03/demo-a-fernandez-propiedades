@@ -1,2 +1,7 @@
-# demo-a-fernandez-propiedades
-Demo web para A Fernandez propiedades — diseñada por eterlab.
+# A Fernandez propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
